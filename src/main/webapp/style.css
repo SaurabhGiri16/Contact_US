@@ -1,0 +1,56 @@
+#minimize_paragraph {
+	font-size: .7em;
+	margin-top: -1.5em;
+}
+
+#body {
+	background-color: #f0f0f0;
+}
+
+#heading h1 {
+	margin: 5%;
+	margin-bottom: -.5em;
+}
+
+#form {
+	margin: auto;
+	margin-top: 5em;
+	margin-bottom: 2em;
+	width: 25em;
+	border-radius: 0px;
+	border: white;
+	border-width: 2px;
+	border-style: solid;
+}
+
+#contactusform {
+	background-color: white;
+}
+
+#contactusform label, input, textarea, p {
+	margin: 5%;
+}
+
+#contactusform label span {
+	color: red;
+}
+
+#loginform {
+	background-color: white;
+	border: black;
+	border-width: 2px;
+	border-style: solid;
+	margin: auto;
+	margin-top: 5em;
+	margin-bottom: 2em;
+	width: 25em;
+	border-radius: 0px;
+}
+
+#loginform h1, label {
+	margin: 5%;
+}
+
+#loginform label span {
+	color: red;
+}
